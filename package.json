@@ -1,0 +1,29 @@
+{
+  "name": "backbone-url-resolver",
+  "version": "0.1.0",
+  "description": "Backbone model URL resolver",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suprememoocow/backbone-url-resolver.git"
+  },
+  "author": "Andrew Newdigate <andrewn@datatribe.net> (http://about.me/andrewnewdigate)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/suprememoocow/backbone-url-resolver/issues"
+  },
+  "homepage": "https://github.com/suprememoocow/backbone-url-resolver#readme",
+  "dependencies": {
+    "backbone": "^1.2.2",
+    "underscore": "^1.8.3"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.0"
+  }
+}
