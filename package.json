@@ -1,6 +1,6 @@
 {
   "name": "backbone-url-resolver",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Backbone model URL resolver",
   "main": "index.js",
   "scripts": {
